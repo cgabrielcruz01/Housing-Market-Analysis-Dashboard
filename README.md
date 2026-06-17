@@ -9,13 +9,7 @@ Dataset
 Source: Canada Housing Dataset (Kaggle)
 Dataset Link: https://www.kaggle.com/datasets/yuliiabulana/canada-housing
 
-The dataset includes:
-Property prices
-Property type
-Number of bedrooms and bathrooms
-Square footage
-Location data
-Property amenities and features
+The dataset includes property prices, property type, number of bedrooms and bathrooms, square footage, location data, property amenities and features.
 
 Project Objectives
 
