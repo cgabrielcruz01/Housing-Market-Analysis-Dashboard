@@ -29,5 +29,9 @@ Geographic Analysis: Province-level market comparisons, regional performance ins
 
 Key Insights: Housing prices vary significantly across Canadian provinces, larger properties generally command higher market values, price per square foot differs considerably by region, property characteristics such as bedrooms, bathrooms, and square footage have a strong relationship with listing prices, regional comparisons reveal varying levels of market affordability across Canada.
 
+## Project Repository
+
+[View Project on GitHub](https://github.com/cgabrielcruz01/Housing-Market-Analysis-Dashboard)
+
 Dashboard Preview
 <img width="1320" height="760" alt="Screenshot" src="https://github.com/user-attachments/assets/e8367063-8564-40c6-976f-638c2d9ee651" />
