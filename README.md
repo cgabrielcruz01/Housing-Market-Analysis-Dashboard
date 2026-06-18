@@ -17,15 +17,15 @@ Tools Used: Power BI, power query, DAX, data modeling.
 
 Data Preparation
 
-The dataset was cleaned and transformed using Power Query by handling missing and inconsistent values, standardizing data formats, creating calculated fields and measures, preparing data for visualization and KPI reporting, optimizing the data model for performance
+The dataset was cleaned and transformed using Power Query by handling missing and inconsistent values, standardizing data formats, creating calculated fields and measures, preparing data for visualization and KPI reporting, optimizing the data model for performance.
 
-The dashboard includes several important housing market metrics such as average property price, median property price, average square footage, average price per square foot, total listings, average bedrooms per property, average bathrooms per property
+The dashboard includes several important housing market metrics such as average property price, median property price, average square footage, average price per square foot, total listings, average bedrooms per property, average bathrooms per property.
 
-Price Analysis: Average property prices by province, median property prices by province, price distribution analysis, regional housing market comparisons
+Price Analysis: Average property prices by province, median property prices by province, price distribution analysis, regional housing market comparisons.
 
-Property Characteristics: Property type analysis, bedroom and bathroom distributions, square footage comparisons, amenity and feature breakdowns
+Property Characteristics: Property type analysis, bedroom and bathroom distributions, square footage comparisons, amenity and feature breakdowns.
 
-Geographic Analysis: Province-level market comparisons, regional performance insights, interactive geographic filtering
+Geographic Analysis: Province-level market comparisons, regional performance insights, interactive geographic filtering.
 
 Key Insights: Housing prices vary significantly across Canadian provinces, larger properties generally command higher market values, price per square foot differs considerably by region, property characteristics such as bedrooms, bathrooms, and square footage have a strong relationship with listing prices, regional comparisons reveal varying levels of market affordability across Canada.
 
